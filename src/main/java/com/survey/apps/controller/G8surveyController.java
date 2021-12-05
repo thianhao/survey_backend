@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
-import static com.survey.apps.AppsApplication.CORSclient;
+//import static com.survey.apps.AppsApplication.CORSclient;
 
-@CrossOrigin(origins = CORSclient, maxAge = 3600) // CORS Config for web browser
+//@CrossOrigin(origins = CORSclient, maxAge = 3600) // CORS Config for web browser
 @RestController
 @RequestMapping("g8survey")
 public class G8surveyController {

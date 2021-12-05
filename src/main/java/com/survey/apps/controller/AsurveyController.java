@@ -10,10 +10,10 @@ import reactor.core.publisher.Mono;
 
 import javax.validation.Valid;
 
-import static com.survey.apps.AppsApplication.CORSclient;
+// import static com.survey.apps.AppsApplication.CORSclient;
 
 // @RequestMapping("asurvey")
-@CrossOrigin(origins = CORSclient, maxAge = 3600) // CORS Config for web browser
+// @CrossOrigin(origins = CORSclient, maxAge = 3600) // CORS Config for web browser
 @RestController
 @RequestMapping("asurvey")
 public class AsurveyController {
@@ -37,6 +37,7 @@ public class AsurveyController {
     public Mono<Asurvey> createAsurvey(@RequestBody Mono<Asurvey> asurveyMono){
         return asurveyMono.flatMap(this.asurveyService::createAsurvey);
     }
+    
 
     @PutMapping("{userid}")
     public Mono<Asurvey> updateAsurvey(@PathVariable String userid,

@@ -70,4 +70,158 @@ public class Asurvey {
         this.aq15 = aq15;
         this.aq16 = aq16;
     }
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getUserid() {
+		return userid;
+	}
+
+	public void setUserid(String userid) {
+		this.userid = userid;
+	}
+
+	public String getTime() {
+		return time;
+	}
+
+	public void setTime(String time) {
+		this.time = time;
+	}
+
+	public String getAq1() {
+		return aq1;
+	}
+
+	public void setAq1(String aq1) {
+		this.aq1 = aq1;
+	}
+
+	public String getAq2() {
+		return aq2;
+	}
+
+	public void setAq2(String aq2) {
+		this.aq2 = aq2;
+	}
+
+	public String getAq3() {
+		return aq3;
+	}
+
+	public void setAq3(String aq3) {
+		this.aq3 = aq3;
+	}
+
+	public String getAq4() {
+		return aq4;
+	}
+
+	public void setAq4(String aq4) {
+		this.aq4 = aq4;
+	}
+
+	public String getAq5() {
+		return aq5;
+	}
+
+	public void setAq5(String aq5) {
+		this.aq5 = aq5;
+	}
+
+	public String getAq6() {
+		return aq6;
+	}
+
+	public void setAq6(String aq6) {
+		this.aq6 = aq6;
+	}
+
+	public String getAq7() {
+		return aq7;
+	}
+
+	public void setAq7(String aq7) {
+		this.aq7 = aq7;
+	}
+
+	public String getAq8() {
+		return aq8;
+	}
+
+	public void setAq8(String aq8) {
+		this.aq8 = aq8;
+	}
+
+	public String getAq9() {
+		return aq9;
+	}
+
+	public void setAq9(String aq9) {
+		this.aq9 = aq9;
+	}
+
+	public String getAq10() {
+		return aq10;
+	}
+
+	public void setAq10(String aq10) {
+		this.aq10 = aq10;
+	}
+
+	public String getAq11() {
+		return aq11;
+	}
+
+	public void setAq11(String aq11) {
+		this.aq11 = aq11;
+	}
+
+	public String getAq12() {
+		return aq12;
+	}
+
+	public void setAq12(String aq12) {
+		this.aq12 = aq12;
+	}
+
+	public String getAq13() {
+		return aq13;
+	}
+
+	public void setAq13(String aq13) {
+		this.aq13 = aq13;
+	}
+
+	public String getAq14() {
+		return aq14;
+	}
+
+	public void setAq14(String aq14) {
+		this.aq14 = aq14;
+	}
+
+	public String getAq15() {
+		return aq15;
+	}
+
+	public void setAq15(String aq15) {
+		this.aq15 = aq15;
+	}
+
+	public String getAq16() {
+		return aq16;
+	}
+
+	public void setAq16(String aq16) {
+		this.aq16 = aq16;
+	}
+
+
 }
