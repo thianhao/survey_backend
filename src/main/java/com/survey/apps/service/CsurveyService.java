@@ -59,43 +59,7 @@ public class CsurveyService {
                     p.setCQ24(u.getCQ24());
                     p.setCQ25(u.getCQ25());
                     p.setCQ26(u.getCQ26());
-                    p.setCQ27(u.getCQ27());
-                    p.setCQ28(u.getCQ28());
-                    p.setCQ29(u.getCQ29());
-                    p.setCQ30(u.getCQ30());
-
-                    p.setCQ31(u.getCQ31());
-                    p.setCQ32(u.getCQ32());
-                    p.setCQ33(u.getCQ33());
-                    p.setCQ34(u.getCQ34());
-                    p.setCQ35(u.getCQ35());
-                    p.setCQ36(u.getCQ36());
-                    p.setCQ37(u.getCQ37());
-                    p.setCQ38(u.getCQ38());
-                    p.setCQ39(u.getCQ39());
-                    p.setCQ40(u.getCQ40());
-
-                    p.setCQ41(u.getCQ41());
-                    p.setCQ42(u.getCQ42());
-                    p.setCQ43(u.getCQ43());
-                    p.setCQ44(u.getCQ44());
-                    p.setCQ45(u.getCQ45());
-                    p.setCQ46(u.getCQ46());
-                    p.setCQ47(u.getCQ47());
-                    p.setCQ48(u.getCQ48());
-                    p.setCQ49(u.getCQ49());
-                    p.setCQ50(u.getCQ50());
-
-                    p.setCQ51(u.getCQ51());
-                    p.setCQ52(u.getCQ52());
-                    p.setCQ53(u.getCQ53());
-                    p.setCQ54(u.getCQ54());
-                    p.setCQ55(u.getCQ55());
-                    p.setCQ56(u.getCQ56());
-                    p.setCQ57(u.getCQ57());
-                    p.setCQ58(u.getCQ58());
-                    p.setCQ59(u.getCQ59());
-                    p.setCQ60(u.getCQ60());
+            
 
                     return p;
                 }))

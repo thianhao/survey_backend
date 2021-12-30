@@ -10,10 +10,10 @@ import reactor.core.publisher.Mono;
 
 import javax.validation.Valid;
 
-// import static com.survey.apps.AppsApplication.CORSclient;
+import static com.survey.apps.AppsApplication.CORSclient;
 
 // @RequestMapping("asurvey")
-// @CrossOrigin(origins = CORSclient, maxAge = 3600) // CORS Config for web browser
+@CrossOrigin(origins = CORSclient, maxAge = 3600) // CORS Config for web browser
 @RestController
 @RequestMapping("asurvey")
 public class AsurveyController {

@@ -17,6 +17,7 @@ public class AppsApplication {
 
 	//CORS must be updated
 	// public static final String CORSclient= "https://survey.myasri.com/";
+	public static final String CORSclient= "http://localhost:54322/";
 
 	public static void main(String[] args) {
 		SpringApplication.run(AppsApplication.class, args);

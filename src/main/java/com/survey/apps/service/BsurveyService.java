@@ -54,42 +54,7 @@ public class BsurveyService {
                     p.setBQ20(u.getBQ20());
 
                     p.setBQ21(u.getBQ21());
-                    p.setBQ22(u.getBQ22());
-                    p.setBQ23(u.getBQ23());
-                    p.setBQ24(u.getBQ24());
-                    p.setBQ25(u.getBQ25());
-                    p.setBQ26(u.getBQ26());
-                    p.setBQ27(u.getBQ27());
-                    p.setBQ28(u.getBQ28());
-                    p.setBQ29(u.getBQ29());
-                    p.setBQ30(u.getBQ30());
-
-                    p.setBQ31(u.getBQ31());
-                    p.setBQ32(u.getBQ32());
-                    p.setBQ33(u.getBQ33());
-                    p.setBQ34(u.getBQ34());
-                    p.setBQ35(u.getBQ35());
-                    p.setBQ36(u.getBQ36());
-                    p.setBQ37(u.getBQ37());
-                    p.setBQ38(u.getBQ38());
-                    p.setBQ39(u.getBQ39());
-                    p.setBQ40(u.getBQ40());
-
-                    p.setBQ41(u.getBQ41());
-                    p.setBQ42(u.getBQ42());
-                    p.setBQ43(u.getBQ43());
-                    p.setBQ44(u.getBQ44());
-                    p.setBQ45(u.getBQ45());
-                    p.setBQ46(u.getBQ46());
-                    p.setBQ47(u.getBQ47());
-                    p.setBQ48(u.getBQ48());
-                    p.setBQ49(u.getBQ49());
-                    p.setBQ50(u.getBQ50());
-
-                    p.setBQ51(u.getBQ51());
-                    p.setBQ52(u.getBQ52());
-                    p.setBQ53(u.getBQ53());
-
+                  
 
                     return p;
                 }))
